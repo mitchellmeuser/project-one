@@ -1,0 +1,11 @@
+h1{ 
+text-align: center;
+border: 1px solid blue;
+}
+div{
+  border:1px solid red
+}
+ul{
+  border:1px solid green;
+  font-style: italic
+}
